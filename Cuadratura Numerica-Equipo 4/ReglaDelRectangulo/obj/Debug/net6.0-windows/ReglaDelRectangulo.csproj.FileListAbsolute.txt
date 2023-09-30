@@ -1,0 +1,17 @@
+C:\Users\gibran\Desktop\TAREA\ReglaDelRectangulo\ReglaDelRectangulo\bin\Debug\net6.0-windows\ReglaDelRectangulo.exe
+C:\Users\gibran\Desktop\TAREA\ReglaDelRectangulo\ReglaDelRectangulo\bin\Debug\net6.0-windows\ReglaDelRectangulo.deps.json
+C:\Users\gibran\Desktop\TAREA\ReglaDelRectangulo\ReglaDelRectangulo\bin\Debug\net6.0-windows\ReglaDelRectangulo.runtimeconfig.json
+C:\Users\gibran\Desktop\TAREA\ReglaDelRectangulo\ReglaDelRectangulo\bin\Debug\net6.0-windows\ReglaDelRectangulo.dll
+C:\Users\gibran\Desktop\TAREA\ReglaDelRectangulo\ReglaDelRectangulo\bin\Debug\net6.0-windows\ReglaDelRectangulo.pdb
+C:\Users\gibran\Desktop\TAREA\ReglaDelRectangulo\ReglaDelRectangulo\obj\Debug\net6.0-windows\ReglaDelRectangulo.csproj.AssemblyReference.cache
+C:\Users\gibran\Desktop\TAREA\ReglaDelRectangulo\ReglaDelRectangulo\obj\Debug\net6.0-windows\ReglaDelRectangulo.Form1.resources
+C:\Users\gibran\Desktop\TAREA\ReglaDelRectangulo\ReglaDelRectangulo\obj\Debug\net6.0-windows\ReglaDelRectangulo.csproj.GenerateResource.cache
+C:\Users\gibran\Desktop\TAREA\ReglaDelRectangulo\ReglaDelRectangulo\obj\Debug\net6.0-windows\ReglaDelRectangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gibran\Desktop\TAREA\ReglaDelRectangulo\ReglaDelRectangulo\obj\Debug\net6.0-windows\ReglaDelRectangulo.AssemblyInfoInputs.cache
+C:\Users\gibran\Desktop\TAREA\ReglaDelRectangulo\ReglaDelRectangulo\obj\Debug\net6.0-windows\ReglaDelRectangulo.AssemblyInfo.cs
+C:\Users\gibran\Desktop\TAREA\ReglaDelRectangulo\ReglaDelRectangulo\obj\Debug\net6.0-windows\ReglaDelRectangulo.csproj.CoreCompileInputs.cache
+C:\Users\gibran\Desktop\TAREA\ReglaDelRectangulo\ReglaDelRectangulo\obj\Debug\net6.0-windows\ReglaDelRectangulo.dll
+C:\Users\gibran\Desktop\TAREA\ReglaDelRectangulo\ReglaDelRectangulo\obj\Debug\net6.0-windows\refint\ReglaDelRectangulo.dll
+C:\Users\gibran\Desktop\TAREA\ReglaDelRectangulo\ReglaDelRectangulo\obj\Debug\net6.0-windows\ReglaDelRectangulo.pdb
+C:\Users\gibran\Desktop\TAREA\ReglaDelRectangulo\ReglaDelRectangulo\obj\Debug\net6.0-windows\ReglaDelRectangulo.genruntimeconfig.cache
+C:\Users\gibran\Desktop\TAREA\ReglaDelRectangulo\ReglaDelRectangulo\obj\Debug\net6.0-windows\ref\ReglaDelRectangulo.dll
