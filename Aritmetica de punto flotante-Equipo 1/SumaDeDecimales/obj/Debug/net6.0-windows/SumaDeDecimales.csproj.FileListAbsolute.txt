@@ -1,0 +1,17 @@
+C:\Users\gibran\Desktop\TAREA\SumaDeDecimales\SumaDeDecimales\bin\Debug\net6.0-windows\SumaDeDecimales.exe
+C:\Users\gibran\Desktop\TAREA\SumaDeDecimales\SumaDeDecimales\bin\Debug\net6.0-windows\SumaDeDecimales.deps.json
+C:\Users\gibran\Desktop\TAREA\SumaDeDecimales\SumaDeDecimales\bin\Debug\net6.0-windows\SumaDeDecimales.runtimeconfig.json
+C:\Users\gibran\Desktop\TAREA\SumaDeDecimales\SumaDeDecimales\bin\Debug\net6.0-windows\SumaDeDecimales.dll
+C:\Users\gibran\Desktop\TAREA\SumaDeDecimales\SumaDeDecimales\bin\Debug\net6.0-windows\SumaDeDecimales.pdb
+C:\Users\gibran\Desktop\TAREA\SumaDeDecimales\SumaDeDecimales\obj\Debug\net6.0-windows\SumaDeDecimales.csproj.AssemblyReference.cache
+C:\Users\gibran\Desktop\TAREA\SumaDeDecimales\SumaDeDecimales\obj\Debug\net6.0-windows\SumaDeDecimales.Form1.resources
+C:\Users\gibran\Desktop\TAREA\SumaDeDecimales\SumaDeDecimales\obj\Debug\net6.0-windows\SumaDeDecimales.csproj.GenerateResource.cache
+C:\Users\gibran\Desktop\TAREA\SumaDeDecimales\SumaDeDecimales\obj\Debug\net6.0-windows\SumaDeDecimales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gibran\Desktop\TAREA\SumaDeDecimales\SumaDeDecimales\obj\Debug\net6.0-windows\SumaDeDecimales.AssemblyInfoInputs.cache
+C:\Users\gibran\Desktop\TAREA\SumaDeDecimales\SumaDeDecimales\obj\Debug\net6.0-windows\SumaDeDecimales.AssemblyInfo.cs
+C:\Users\gibran\Desktop\TAREA\SumaDeDecimales\SumaDeDecimales\obj\Debug\net6.0-windows\SumaDeDecimales.csproj.CoreCompileInputs.cache
+C:\Users\gibran\Desktop\TAREA\SumaDeDecimales\SumaDeDecimales\obj\Debug\net6.0-windows\SumaDeDecimales.dll
+C:\Users\gibran\Desktop\TAREA\SumaDeDecimales\SumaDeDecimales\obj\Debug\net6.0-windows\refint\SumaDeDecimales.dll
+C:\Users\gibran\Desktop\TAREA\SumaDeDecimales\SumaDeDecimales\obj\Debug\net6.0-windows\SumaDeDecimales.pdb
+C:\Users\gibran\Desktop\TAREA\SumaDeDecimales\SumaDeDecimales\obj\Debug\net6.0-windows\SumaDeDecimales.genruntimeconfig.cache
+C:\Users\gibran\Desktop\TAREA\SumaDeDecimales\SumaDeDecimales\obj\Debug\net6.0-windows\ref\SumaDeDecimales.dll
