@@ -1,0 +1,15 @@
+C:\Users\gibran\Desktop\TAREA\Sistema de ecuaciones algebraicas lineales\Sistema de ecuaciones algebraicas lineales\bin\Debug\net6.0\Sistema de ecuaciones algebraicas lineales.exe
+C:\Users\gibran\Desktop\TAREA\Sistema de ecuaciones algebraicas lineales\Sistema de ecuaciones algebraicas lineales\bin\Debug\net6.0\Sistema de ecuaciones algebraicas lineales.deps.json
+C:\Users\gibran\Desktop\TAREA\Sistema de ecuaciones algebraicas lineales\Sistema de ecuaciones algebraicas lineales\bin\Debug\net6.0\Sistema de ecuaciones algebraicas lineales.runtimeconfig.json
+C:\Users\gibran\Desktop\TAREA\Sistema de ecuaciones algebraicas lineales\Sistema de ecuaciones algebraicas lineales\bin\Debug\net6.0\Sistema de ecuaciones algebraicas lineales.dll
+C:\Users\gibran\Desktop\TAREA\Sistema de ecuaciones algebraicas lineales\Sistema de ecuaciones algebraicas lineales\bin\Debug\net6.0\Sistema de ecuaciones algebraicas lineales.pdb
+C:\Users\gibran\Desktop\TAREA\Sistema de ecuaciones algebraicas lineales\Sistema de ecuaciones algebraicas lineales\obj\Debug\net6.0\Sistema de ecuaciones algebraicas lineales.csproj.AssemblyReference.cache
+C:\Users\gibran\Desktop\TAREA\Sistema de ecuaciones algebraicas lineales\Sistema de ecuaciones algebraicas lineales\obj\Debug\net6.0\Sistema de ecuaciones algebraicas lineales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gibran\Desktop\TAREA\Sistema de ecuaciones algebraicas lineales\Sistema de ecuaciones algebraicas lineales\obj\Debug\net6.0\Sistema de ecuaciones algebraicas lineales.AssemblyInfoInputs.cache
+C:\Users\gibran\Desktop\TAREA\Sistema de ecuaciones algebraicas lineales\Sistema de ecuaciones algebraicas lineales\obj\Debug\net6.0\Sistema de ecuaciones algebraicas lineales.AssemblyInfo.cs
+C:\Users\gibran\Desktop\TAREA\Sistema de ecuaciones algebraicas lineales\Sistema de ecuaciones algebraicas lineales\obj\Debug\net6.0\Sistema de ecuaciones algebraicas lineales.csproj.CoreCompileInputs.cache
+C:\Users\gibran\Desktop\TAREA\Sistema de ecuaciones algebraicas lineales\Sistema de ecuaciones algebraicas lineales\obj\Debug\net6.0\Sistema de ecuaciones algebraicas lineales.dll
+C:\Users\gibran\Desktop\TAREA\Sistema de ecuaciones algebraicas lineales\Sistema de ecuaciones algebraicas lineales\obj\Debug\net6.0\refint\Sistema de ecuaciones algebraicas lineales.dll
+C:\Users\gibran\Desktop\TAREA\Sistema de ecuaciones algebraicas lineales\Sistema de ecuaciones algebraicas lineales\obj\Debug\net6.0\Sistema de ecuaciones algebraicas lineales.pdb
+C:\Users\gibran\Desktop\TAREA\Sistema de ecuaciones algebraicas lineales\Sistema de ecuaciones algebraicas lineales\obj\Debug\net6.0\Sistema de ecuaciones algebraicas lineales.genruntimeconfig.cache
+C:\Users\gibran\Desktop\TAREA\Sistema de ecuaciones algebraicas lineales\Sistema de ecuaciones algebraicas lineales\obj\Debug\net6.0\ref\Sistema de ecuaciones algebraicas lineales.dll
